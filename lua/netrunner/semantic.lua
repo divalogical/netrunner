@@ -1,25 +1,26 @@
 return function(p)
 
   return {
+
     bg = p.bg,
     fg = p.fg,
 
     cursorline = p.black,
-    selection = p.green,
+    selection = p.gray,
 
-    comment = p.green,
+    comment = p.gray,
 
-    keyword = p.red,
-    function_name = p.green,
-    string = p.cyan,
-    number = p.green,
-    type = p.blue,
+    keyword = p.magenta,
+    function_name = p.blue,
+    string = p.green,
+    number = p.yellow,
+    type = p.cyan,
 
     error = p.red,
-    warning = p.green,
-    hint = p.green,
+    warning = p.yellow,
+    hint = p.cyan,
 
-    accent = p.green,
+    accent = p.accent
   }
 
 end
