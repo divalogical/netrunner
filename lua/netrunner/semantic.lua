@@ -8,19 +8,19 @@ return function(p)
     cursorline = p.black,
     selection = p.green,
 
-    comment = p.red,
+    comment = p.green,
 
     keyword = p.green,
     function_name = p.blue,
     string = p.green,
-    number = p.magenta,
+    number = p.green,
     type = p.cyan,
 
     error = p.red,
     warning = p.yellow,
     hint = p.cyan,
 
-    accent = p.accent
+    accent = p.red
   }
 
 end
