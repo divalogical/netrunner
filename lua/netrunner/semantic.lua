@@ -6,9 +6,9 @@ return function(p)
     fg = p.fg,
 
     cursorline = p.black,
-    selection = p.gray,
+    selection = p.green,
 
-    comment = p.gray,
+    comment = p.fg,
 
     keyword = p.magenta,
     function_name = p.blue,
