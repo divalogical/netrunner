@@ -11,16 +11,16 @@ return function(p)
     comment = p.green,
 
     keyword = p.green,
-    function_name = p.blue,
+    function_name = p.green,
     string = p.green,
     number = p.green,
-    type = p.cyan,
+    type = p.green,
 
-    error = p.red,
-    warning = p.yellow,
-    hint = p.cyan,
+    error = p.green,
+    warning = p.green,
+    hint = p.green,
 
-    accent = p.red
+    accent = p.green
   }
 
 end
