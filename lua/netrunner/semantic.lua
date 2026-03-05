@@ -8,12 +8,12 @@ return function(p)
     cursorline = p.black,
     selection = p.green,
 
-    comment = p.fg,
+    comment = p.red,
 
-    keyword = p.magenta,
+    keyword = p.green,
     function_name = p.blue,
     string = p.green,
-    number = p.yellow,
+    number = p.magenta,
     type = p.cyan,
 
     error = p.red,
