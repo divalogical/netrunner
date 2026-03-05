@@ -3,7 +3,7 @@ return {
   fg = "#74ff9b",
 
   red = "#ed76c9",
-  green = "#ed76c9",
+  green = "#95f3b7",
   yellow = "#b3fb8a",
   blue = "#ff73d6",
   magenta = "#cea4ff",
@@ -11,6 +11,6 @@ return {
 
 
   white    = "#cdd6f4",
-  gray     = "#6c7086",
-  accent   = "#c792ea"
+  gray     = "#1f6b47",
+  accent   = "#a5ff88"
 }
