@@ -11,6 +11,6 @@ return {
 
 
   white    = "#cdd6f4",
-  gray     = "#1f6b47",
+  gray     = "#1bff93",
   accent   = "#a5ff88"
 }

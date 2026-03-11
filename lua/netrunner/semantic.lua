@@ -10,7 +10,7 @@ return function(p)
 
     comment = p.gray,
 
-    keyword = p.magenta,
+    keyword = p.fg,
     function_name = p.blue,
     string = p.green,
     number = p.yellow,
